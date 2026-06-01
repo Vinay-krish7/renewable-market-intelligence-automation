@@ -1,0 +1,6 @@
+anthropic
+python-dotenv
+selenium
+requests
+python-docx
+webdriver-manager
