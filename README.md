@@ -58,6 +58,7 @@ Market Intelligence Report Output
 renewable-market-intelligence-automation/
 │
 ├── src/
+│   ├── main.py
 │   ├── data_scrapper.py
 │   ├── content_gen.py
 │   └── config.py
